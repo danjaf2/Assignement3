@@ -1,3 +1,8 @@
 apps/myApps/mySketch/obj/
 *.obj
 *.tlog
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
