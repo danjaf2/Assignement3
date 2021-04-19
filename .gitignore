@@ -1,8 +1,16 @@
 apps/myApps/mySketch/obj/
-*.obj
-*.tlog
+apps/myApps/mySketch/addons/ofxOpenCv/src/
+apps/myApps/mySketch/addons/ofxGui/src/
+
+# User-specific files
 *.rsuser
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
+*.obj
+*.tlog
+*.log
+*.pdb
+*.obj
